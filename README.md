@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>YB School Dashboard</title>
+    <title>Niazi School Dashboard</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- Bootstrap 5 -->
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -123,7 +123,7 @@
         <div class="sidebar" id="sidebar">
             <div class="text-center mb-4">
                 <img src="https://i.imgur.com/IkK1pMK.png" width="80" alt="Logo" />
-                <h6 class="mt-2 fw-bold">YB SCHOOL<br><small class="text-muted">MANAGEMENT</small></h6>
+                <h6 class="mt-2 fw-bold">Niazi School<br><small class="text-muted">MANAGEMENT</small></h6>
             </div>
 
 
